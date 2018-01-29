@@ -1,5 +1,5 @@
 # DukeMTMC-Pose
-Pedestrian Pose for [DukeMTMC-reID](https://github.com/layumi/DukeMTMC-reID_evaluation)(Python and Matlab API)
+Pedestrian Pose Annotation for [DukeMTMC-reID](https://github.com/layumi/DukeMTMC-reID_evaluation) by machine(Python and Matlab API)
 
 ### Data
 18 pedestrian body points have been included in `result` folder.
