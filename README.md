@@ -26,7 +26,11 @@ python: `python_demo.ipynb`
 
 matlab: `matlab_demo.m`
 
+### Generate the pose by yourself
+You need to install the openpose from https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation. The code is wrote with pycaffe.
 
+I wrote a simple code `generate.py` to generate the pose. You may directly change the dataset path in it and have a try.
+ 
 ### License
 
 Please refer to `LICENSE_DukeMTMC.txt` and `LICENSE_DukeMTMC-reID.txt`.
