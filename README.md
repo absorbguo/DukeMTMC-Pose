@@ -1,5 +1,8 @@
 # DukeMTMC-Pose
-Pedestrian Pose Annotation for [DukeMTMC-reID](https://github.com/layumi/DukeMTMC-reID_evaluation) by machine(Python and Matlab API)
+Pedestrian Pose Annotation for [DukeMTMC-reID](https://github.com/layumi/DukeMTMC-reID_evaluation) by machine(Python and Matlab API).
+
+It is a small work but we think it may help the community to focus on the body structure of the pedestrian.
+The application can be pedestrain hallucination (generation), person re-identification and tracking. 
 
 ### Data
 18 pedestrian body points have been included in `result` folder.
